@@ -24,6 +24,17 @@ body{
 #final{
     align-items: center;
     color: white;
-    font-size: 20px;
-    padding-left: 43%;
+    text-align: center;
+/*     font-size: 20px;
+    padding-left: 43%; */
+}
+
+#primeiro_numero{
+    margin-top: 2%;
+    margin-right: 30%;
+}
+
+#segundo_numero{
+    margin-top: 2%;
+    margin-right: 30%;
 }
